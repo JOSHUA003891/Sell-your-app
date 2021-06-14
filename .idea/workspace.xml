@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a32ad35-406c-4eae-b9ad-062bc994ee67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/startbootstrap-new-age-gh-pages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/app-store-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/demo-screen.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/google-play-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portrait_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/tnw-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623397906359</updated>
       <workItem from="1623397907745" duration="1345000" />
-      <workItem from="1623648668095" duration="3362000" />
+      <workItem from="1623648668095" duration="3644000" />
     </task>
     <servers />
   </component>
